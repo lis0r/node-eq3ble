@@ -24,7 +24,6 @@
     "url": "git://github.com/maxnowack/node-eq3ble.git"
   },
   "bugs": {
-    "url": "http://github.com/maxnowack/node-eq3ble/issues"
   },
   "files": [
     "dist"
@@ -46,7 +45,7 @@
   },
   "dependencies": {
     "babel-core": "6.26.0",
-    "noble": "git+https://github.com/PolideaInternal/noble.git#macos_highsierra",
+    "noble": "github:abandonware/noble",
     "p-timeout": "^1.2.0"
   },
   "devDependencies": {
