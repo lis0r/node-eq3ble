@@ -1,4 +1,4 @@
-import noble from 'noble';
+import noble from '@abandonware/noble';
 import { EventEmitter } from 'events';
 import Thermostat from './Thermostat';
 import { deviceName } from './interface';
